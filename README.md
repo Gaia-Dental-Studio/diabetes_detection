@@ -5,7 +5,7 @@ This repository code is adopted from https://github.com/DineshAnalyticsandAI/Dia
 The application is built using a Random Forest model trained with the Pima Indians Diabetes dataset. The dataset, originally from the National Institute of Diabetes and Digestive and Kidney Diseases, contains information on 768 women from a population near Phoenix, Arizona, USA. 258 tested positive, and 500 tested negative. It consists of 2 classes and 8 attributes: pregnancies, OGTT(Oral Glucose Tolerance Test), blood pressure, skin thickness, insulin, BMI(Body Mass Index), age, and pedigree diabetes function.
 
 ### Independent Variables:
-Pregnancies: Number of times pregnant
+- Pregnancies: Number of times pregnant
 - Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
 - BloodPressure: Diastolic blood pressure (mm Hg)
 - SkinThickness: Triceps skin fold thickness (mm)
